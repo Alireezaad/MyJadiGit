@@ -18,7 +18,7 @@ const members = [
       { icon: 'whatsapp', link: 'https://wa.me/989023007950' },
     ]
   },
-  // Add more team members here4444
+  // Add more team members here
 ]
 </script>
 
