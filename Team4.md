@@ -17,8 +17,9 @@ const members = [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/alireza-abasi-7000000000000000000/' },
       { icon: 'whatsapp', link: 'https://wa.me/989023007950' },
     ]
-  },
-  // Add more team members here111111111111
+  }, 
+  // Add more team members here111111111111 kir to javadi
+
 ]
 </script>
 
