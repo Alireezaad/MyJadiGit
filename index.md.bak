@@ -4,7 +4,11 @@ layout: home
 
 hero:
   name: "Bookify"
-  text: "Alireza Abasi - .Net developer in iran and looking for job"
+<<<<<<< HEAD
+  text: "Alireza Abasi - .Net developer in iran and looking for job prefered to be remote"
+=======
+  text: "Alireza Abasi - .Net developer in iran and looking for remote job"
+>>>>>>> 6114cb068f0ef550ba91ab0328fc0a1e30cc4ce6
   tagline: A web application for booking location reservations<br>Started at September 17, 2024<br>Developed by C# | .NET Core 8
   image:
     src: /house.png
