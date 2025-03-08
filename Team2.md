@@ -23,6 +23,6 @@ const members = [
 </script>
 
 <div class="team-container" align="center">
-  <h1>Say hello to our awesome team (Only me)</h1>
+  <h1>Say hello to our amazing team (Only me)</h1>
   <VPTeamMembers size="small" :members="members" />
 </div>
